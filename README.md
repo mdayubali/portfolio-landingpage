@@ -6,7 +6,7 @@
 
 ---
 
-**_This is just an static website_**
+**_This is just a static website_**
 
 ### Features
 
@@ -43,6 +43,18 @@
 
 ![alt text](./assets/images/Ayub.png)
 
+          ```html
+            <head>
+                <title></title>
+            </head>
+            <body>
+                <h3>404 found 😀 😀 </h3><h3>
+            </body>
           ```
-            <h3>404 found 😀 😀 </h3>
-          ```
+
+```css
+h3 {
+  background: red;
+  font-size: 1rem;
+}
+```
