@@ -8,6 +8,19 @@
 
 **_This is just a static website_**
 
+## Repository Link
+
+[`click here to see the repo`][repolink]
+
+## Live Link
+
+[`click here for live`][livelink]
+
+<!-- Repository and live link -->
+
+[repolink]: https://github.com/mdayubali/portfolio-landingpage
+[livelink]: https://mdayubali.github.io/portfolio-landingpage/
+
 ### Features
 
 1. header part
@@ -25,19 +38,6 @@
 - [x] Service Section
 - [x] Contact Section
 - [x] Footer Section
-
-## Repository Link
-
-[`click here to see the repo`][repolink]
-
-## Live Link
-
-[`click here for live`][livelink]
-
-<!-- Repository and live link -->
-
-[repolink]: https://github.com/mdayubali/portfolio-landingpage
-[livelink]: https://mdayubali.github.io/portfolio-landingpage/
 
 ### profile picture
 
