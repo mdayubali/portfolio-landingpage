@@ -1,4 +1,4 @@
-# portfolio Website Using Bootstrap v5.1
+## Portfolio Website Using Bootstrap v5.1
 
 ---
 
@@ -32,13 +32,17 @@
 
 ## Live Link
 
-[`click here for live`][livelink]  
+[`click here for live`][livelink]
 
 <!-- Repository and live link -->
-[repolink]:https://github.com/mdayubali/portfolio-landingpage
-[livelink]:https://mdayubali.github.io/portfolio-landingpage/  
+
+[repolink]: https://github.com/mdayubali/portfolio-landingpage
+[livelink]: https://mdayubali.github.io/portfolio-landingpage/
 
 ### profile picture
-![alt text](./assets/images/Ayub.png)  
-            😀 😀 
-            
+
+![alt text](./assets/images/Ayub.png)
+
+          ```
+            <h3>404 found 😀 😀 </h3>
+          ```
