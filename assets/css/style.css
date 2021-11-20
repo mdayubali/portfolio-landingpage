@@ -2,7 +2,7 @@
     background-color: #1c1c42;;
 }
 .bg-img{
-    background: url('assets/images/aboutus1.jpg') rgba(0, 0, 0, 0.6);
+    background: url('/assets/images/aboutus1.jpg') rgba(0, 0, 0, 0.6);
     background-attachment:scroll;
     background-repeat: no-repeat;
     background-size: cover;
