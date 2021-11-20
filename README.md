@@ -43,14 +43,14 @@
 
 ![alt text](./assets/images/Ayub.png)
 
-          ```html
-            <head>
-                <title></title>
-            </head>
-            <body>
-                <h3>404 found 😀 😀 </h3><h3>
-            </body>
-          ```
+```html
+     <head>
+        <title></title>
+    </head>
+    <body>
+        <h3>404 found 😀 😀 </h3><h3>
+    </body>
+```
 
 ```css
 h3 {
