@@ -1,0 +1,34 @@
+.nav-bg{
+    background-color: #1c1c42;;
+}
+.bg-img{
+    background: url('/assets/images/aboutus1.jpg') rgba(0, 0, 0, 0.6);
+    background-attachment:scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    background-blend-mode: multiply;
+    height: 18.75rem;
+    opacity: .75;
+
+}
+.navbar-brand img,
+.footer-log img{
+    height: 5rem;
+}
+h2:after{
+    border-bottom: .18rem solid rgb(235, 35, 8);
+    content: "";
+    display: block;
+    height: .18rem;
+    width: 20%;
+    margin-top: .5rem;
+    margin: 0px auto;
+}
+.card-body{
+    transition-duration: 2000ms;
+}
+.card-body:hover{
+    cursor: pointer;
+    transform: scaleY(1.2);
+}
